@@ -1,0 +1,101 @@
+Project Type,Requirements,Industry,Frontend,Backend,Database,Other Tools,Scale
+Online Marketplace,"Task Management, Collaboration, Calendar Integration",E-commerce,Next.js,Node.js,MongoDB,Azure,Medium
+Data Analytics Dashboard,"Product Listings, Seller Profiles, Order Management",Technology,Angular,Spring Boot,Firestore,Firebase,Small
+Social Media App,"Patient Records, Appointment Scheduling, Secure Access",Media,React,Node.js,PostgreSQL,Firebase,Small
+Project Management Tool,"Patient Records, Appointment Scheduling, Secure Access",Healthcare,Vue.js,Django,Firestore,Azure,Large
+E-commerce Platform,"User Management, Video Hosting, Assignment Management",Finance,React,Flask,Firestore,Firebase,Medium
+Data Analytics Dashboard,"Patient Records, Appointment Scheduling, Secure Access",Education,React,Node.js,Firestore,Docker,Small
+Video Streaming Service,"Patient Records, Appointment Scheduling, Secure Access",Finance,Angular,Flask,MongoDB,Docker,Medium
+Learning Management System,"User Management, Video Hosting, Assignment Management",Education,Angular,Django,MySQL,Google Cloud,Large
+Social Media App,"Content Delivery, Streaming, Video Recommendations",Technology,Angular,Flask,PostgreSQL,Firebase,Large
+E-commerce Platform,"Payment Processing, Inventory Management, User Authentication",Healthcare,Next.js,Node.js,Firestore,Firebase,Small
+Online Marketplace,"Real-time Chat, News Feed, Push Notifications",Retail,React,Spring Boot,PostgreSQL,AWS,Medium
+Healthcare System,"User Management, Video Hosting, Assignment Management",Media,React,Node.js,Firestore,Docker,Small
+E-commerce Platform,"Real-time Chat, News Feed, Push Notifications",Education,Svelte,Node.js,MySQL,Docker,Small
+E-commerce Platform,"User Management, Video Hosting, Assignment Management",Finance,Vue.js,Node.js,SQLite,Google Cloud,Small
+Video Streaming Service,"Task Management, Collaboration, Calendar Integration",Education,Vue.js,Flask,Firestore,Google Cloud,Large
+E-commerce Platform,"Content Delivery, Streaming, Video Recommendations",E-commerce,Svelte,Spring Boot,MongoDB,Docker,Small
+Social Media App,"Expense Tracking, Budget Analysis, Investment Management",Healthcare,Svelte,Flask,Firestore,Google Cloud,Small
+Learning Management System,"Real-time Chat, News Feed, Push Notifications",Media,Next.js,Ruby on Rails,SQLite,Docker,Large
+E-commerce Platform,"User Management, Video Hosting, Assignment Management",Healthcare,Svelte,Ruby on Rails,PostgreSQL,AWS,Large
+Project Management Tool,"Expense Tracking, Budget Analysis, Investment Management",Technology,Angular,Django,MongoDB,Docker,Medium
+Social Media App,"Expense Tracking, Budget Analysis, Investment Management",Media,React,Django,PostgreSQL,AWS,Small
+Healthcare System,"Data Visualization, Reporting, Data Import/Export",Media,Svelte,Ruby on Rails,SQLite,Docker,Large
+Video Streaming Service,"Expense Tracking, Budget Analysis, Investment Management",E-commerce,React,Node.js,Firestore,Docker,Small
+Project Management Tool,"Data Visualization, Reporting, Data Import/Export",E-commerce,Next.js,Django,PostgreSQL,Firebase,Medium
+Social Media App,"Data Visualization, Reporting, Data Import/Export",Healthcare,Vue.js,Django,Firestore,Docker,Large
+Online Marketplace,"Product Listings, Seller Profiles, Order Management",Education,React,Spring Boot,MySQL,Firebase,Large
+Online Marketplace,"Real-time Chat, News Feed, Push Notifications",Retail,Next.js,Node.js,MongoDB,Docker,Large
+E-commerce Platform,"Patient Records, Appointment Scheduling, Secure Access",Finance,React,Spring Boot,MySQL,AWS,Medium
+Healthcare System,"Real-time Chat, News Feed, Push Notifications",Media,Svelte,Flask,SQLite,Google Cloud,Medium
+Video Streaming Service,"Product Listings, Seller Profiles, Order Management",Technology,Angular,Django,SQLite,Docker,Large
+Social Media App,"Task Management, Collaboration, Calendar Integration",Retail,Svelte,Flask,MySQL,AWS,Medium
+Data Analytics Dashboard,"Patient Records, Appointment Scheduling, Secure Access",Retail,Angular,Ruby on Rails,MySQL,AWS,Medium
+Project Management Tool,"User Management, Video Hosting, Assignment Management",E-commerce,React,Spring Boot,SQLite,AWS,Medium
+E-commerce Platform,"Payment Processing, Inventory Management, User Authentication",E-commerce,Angular,Node.js,MongoDB,Firebase,Large
+Social Media App,"Patient Records, Appointment Scheduling, Secure Access",Technology,Vue.js,Flask,SQLite,Google Cloud,Large
+Learning Management System,"Content Delivery, Streaming, Video Recommendations",Media,React,Flask,SQLite,AWS,Large
+Learning Management System,"Real-time Chat, News Feed, Push Notifications",Healthcare,Next.js,Node.js,MongoDB,Firebase,Medium
+Social Media App,"User Management, Video Hosting, Assignment Management",Media,React,Django,MySQL,Google Cloud,Large
+Healthcare System,"Content Delivery, Streaming, Video Recommendations",Technology,Svelte,Django,MySQL,Google Cloud,Medium
+Project Management Tool,"Data Visualization, Reporting, Data Import/Export",Finance,Next.js,Node.js,MySQL,Docker,Medium
+Social Media App,"Content Delivery, Streaming, Video Recommendations",Media,Next.js,Django,SQLite,Azure,Small
+Online Marketplace,"Task Management, Collaboration, Calendar Integration",E-commerce,Next.js,Spring Boot,PostgreSQL,AWS,Small
+Project Management Tool,"Patient Records, Appointment Scheduling, Secure Access",Healthcare,Angular,Spring Boot,MongoDB,Firebase,Small
+E-commerce Platform,"User Management, Video Hosting, Assignment Management",Retail,Angular,Ruby on Rails,SQLite,Azure,Medium
+Video Streaming Service,"Patient Records, Appointment Scheduling, Secure Access",E-commerce,Angular,Node.js,Firestore,Google Cloud,Large
+Social Media App,"Real-time Chat, News Feed, Push Notifications",Retail,Svelte,Django,MongoDB,AWS,Small
+Online Marketplace,"Patient Records, Appointment Scheduling, Secure Access",Education,Svelte,Flask,MySQL,Google Cloud,Medium
+E-commerce Platform,"Data Visualization, Reporting, Data Import/Export",Finance,React,Spring Boot,Firestore,Firebase,Medium
+E-commerce Platform,"Real-time Chat, News Feed, Push Notifications",Education,Angular,Node.js,MySQL,Docker,Medium
+Social Media App,"Data Visualization, Reporting, Data Import/Export",Media,Vue.js,Node.js,PostgreSQL,Docker,Small
+Learning Management System,"Data Visualization, Reporting, Data Import/Export",Retail,React,Django,PostgreSQL,Firebase,Medium
+Online Marketplace,"Product Listings, Seller Profiles, Order Management",Media,React,Django,SQLite,Google Cloud,Small
+Healthcare System,"Patient Records, Appointment Scheduling, Secure Access",Technology,Angular,Node.js,MongoDB,Google Cloud,Large
+E-commerce Platform,"User Management, Video Hosting, Assignment Management",Healthcare,Svelte,Spring Boot,Firestore,AWS,Large
+Social Media App,"Payment Processing, Inventory Management, User Authentication",Education,React,Flask,PostgreSQL,Google Cloud,Medium
+Video Streaming Service,"Real-time Chat, News Feed, Push Notifications",Retail,Next.js,Django,Firestore,Firebase,Medium
+Finance Management Tool,"Real-time Chat, News Feed, Push Notifications",Education,Vue.js,Flask,MySQL,Firebase,Large
+Project Management Tool,"Real-time Chat, News Feed, Push Notifications",Technology,Angular,Ruby on Rails,PostgreSQL,Google Cloud,Large
+Finance Management Tool,"Data Visualization, Reporting, Data Import/Export",Media,React,Django,MySQL,Firebase,Large
+Learning Management System,"Data Visualization, Reporting, Data Import/Export",Technology,Svelte,Ruby on Rails,Firestore,Google Cloud,Large
+Social Media App,"Real-time Chat, News Feed, Push Notifications",Healthcare,Next.js,Flask,Firestore,Firebase,Small
+Project Management Tool,"Patient Records, Appointment Scheduling, Secure Access",Technology,Vue.js,Ruby on Rails,PostgreSQL,Google Cloud,Large
+Social Media App,"Patient Records, Appointment Scheduling, Secure Access",Education,Vue.js,Ruby on Rails,SQLite,AWS,Large
+E-commerce Platform,"Expense Tracking, Budget Analysis, Investment Management",Healthcare,Svelte,Spring Boot,MongoDB,Azure,Small
+Learning Management System,"User Management, Video Hosting, Assignment Management",Media,Next.js,Node.js,MySQL,Firebase,Medium
+Healthcare System,"Product Listings, Seller Profiles, Order Management",Healthcare,Next.js,Flask,Firestore,AWS,Small
+Healthcare System,"Task Management, Collaboration, Calendar Integration",E-commerce,Vue.js,Django,PostgreSQL,Google Cloud,Large
+Learning Management System,"Patient Records, Appointment Scheduling, Secure Access",E-commerce,Svelte,Spring Boot,MySQL,Azure,Small
+E-commerce Platform,"Patient Records, Appointment Scheduling, Secure Access",Healthcare,Angular,Node.js,MongoDB,Docker,Small
+Social Media App,"User Management, Video Hosting, Assignment Management",Retail,Next.js,Ruby on Rails,MySQL,Docker,Large
+Data Analytics Dashboard,"Content Delivery, Streaming, Video Recommendations",Finance,Svelte,Flask,MongoDB,Firebase,Medium
+Data Analytics Dashboard,"Product Listings, Seller Profiles, Order Management",Education,Next.js,Ruby on Rails,Firestore,Google Cloud,Small
+E-commerce Platform,"Real-time Chat, News Feed, Push Notifications",Media,Svelte,Node.js,MySQL,Docker,Small
+Healthcare System,"Patient Records, Appointment Scheduling, Secure Access",Technology,Next.js,Flask,PostgreSQL,Firebase,Medium
+Finance Management Tool,"Real-time Chat, News Feed, Push Notifications",Education,Next.js,Django,SQLite,Docker,Large
+Healthcare System,"User Management, Video Hosting, Assignment Management",Education,Svelte,Flask,MySQL,Google Cloud,Medium
+Social Media App,"Patient Records, Appointment Scheduling, Secure Access",Healthcare,Svelte,Django,MongoDB,Firebase,Small
+Data Analytics Dashboard,"Task Management, Collaboration, Calendar Integration",Technology,React,Spring Boot,MySQL,Azure,Small
+Learning Management System,"User Management, Video Hosting, Assignment Management",E-commerce,Angular,Node.js,MySQL,Google Cloud,Small
+Healthcare System,"Content Delivery, Streaming, Video Recommendations",Education,Angular,Django,MongoDB,Firebase,Medium
+Healthcare System,"Payment Processing, Inventory Management, User Authentication",Finance,React,Django,MySQL,Docker,Medium
+Learning Management System,"Patient Records, Appointment Scheduling, Secure Access",Education,Next.js,Flask,Firestore,Docker,Small
+Healthcare System,"User Management, Video Hosting, Assignment Management",E-commerce,Vue.js,Spring Boot,MongoDB,Azure,Small
+Data Analytics Dashboard,"Task Management, Collaboration, Calendar Integration",Healthcare,Next.js,Flask,PostgreSQL,Firebase,Large
+Project Management Tool,"Task Management, Collaboration, Calendar Integration",Retail,Angular,Spring Boot,PostgreSQL,Google Cloud,Small
+Healthcare System,"Product Listings, Seller Profiles, Order Management",Retail,Vue.js,Flask,Firestore,Azure,Small
+Healthcare System,"User Management, Video Hosting, Assignment Management",Retail,Angular,Flask,PostgreSQL,Docker,Small
+Data Analytics Dashboard,"User Management, Video Hosting, Assignment Management",Technology,Svelte,Spring Boot,MySQL,Google Cloud,Medium
+Learning Management System,"Expense Tracking, Budget Analysis, Investment Management",Retail,React,Node.js,SQLite,AWS,Large
+Finance Management Tool,"Product Listings, Seller Profiles, Order Management",Education,Angular,Node.js,MongoDB,Azure,Small
+Social Media App,"Patient Records, Appointment Scheduling, Secure Access",Media,React,Spring Boot,PostgreSQL,Google Cloud,Medium
+Healthcare System,"Payment Processing, Inventory Management, User Authentication",Media,Next.js,Django,SQLite,AWS,Medium
+Project Management Tool,"User Management, Video Hosting, Assignment Management",Education,Vue.js,Django,Firestore,Azure,Large
+Project Management Tool,"Content Delivery, Streaming, Video Recommendations",Finance,React,Ruby on Rails,SQLite,Docker,Medium
+Healthcare System,"Real-time Chat, News Feed, Push Notifications",Education,React,Django,MongoDB,Docker,Large
+Project Management Tool,"Expense Tracking, Budget Analysis, Investment Management",Media,Next.js,Django,MongoDB,Google Cloud,Large
+E-commerce Platform,"Payment Processing, Inventory Management, User Authentication",Finance,Vue.js,Django,SQLite,Firebase,Small
+Project Management Tool,"Real-time Chat, News Feed, Push Notifications",Healthcare,Next.js,Django,Firestore,AWS,Medium
+Learning Management System,"Expense Tracking, Budget Analysis, Investment Management",Finance,Vue.js,Spring Boot,PostgreSQL,AWS,Medium
+Data Analytics Dashboard,"Patient Records, Appointment Scheduling, Secure Access",Education,Vue.js,Spring Boot,PostgreSQL,AWS,Large
